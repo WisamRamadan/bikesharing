@@ -11,5 +11,5 @@ In this project I will be conducting bike trip analysis using Tableau to reveal 
 As shown in the above dashboard, the relationship between avegrae trip duration and birth year does not hold a specific pattern over the extended timeline. However, it shows significant increase over the last 10 years. Building on this trend, it is expected to keep increasing for upcoming years. From gender perspective, males riders has the largest share among bikes users.
 
 2. Bike Utilization
-![BikeUtilization](images/Bike Utilization.png)
+![BikeUtilization](images/BikeUtilization.png)
 

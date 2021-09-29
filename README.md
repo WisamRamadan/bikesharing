@@ -25,5 +25,11 @@ The result show moderate utilization of bikes.
 ![checkoutTimeByGender](images/CheckoutTimesbyGender.png)
 
 7. Trips by Weekday per Hour
-8. Trips by Gender
-9. User trips Gender Weekday Distribution
+![TripsByWeekday](images/TripsbyWeekdayperHour.png)
+9. Trips by Gender
+
+![TripsGender](images/TripsbyGender(WeekdayperHour).png)
+
+11. User trips Gender Weekday Distribution
+
+![userTripsGender](images/UserTripsbyGenderbyWeekday.png)

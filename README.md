@@ -44,3 +44,4 @@ Overall trips per gender shows the same pattern of as trips weekdays per hour. H
 11. User trips Gender Weekday Distribution
 
 ![userTripsGender](images/UserTripsbyGenderbyWeekday.png)
+

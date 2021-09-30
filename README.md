@@ -38,7 +38,7 @@ The rush hours for Citi Bike during weekdays are 5 and 6 pm on Thursday with hig
 
 ![TripsGender](images/TripsbyGender(WeekdayperHour).png)
 
-Overall trips per gender shows the same pattern of as trips weekdays per hour. However, slicing through the data for females only show that bikes are at high demand on Saturday and Sunday! with peak hour on Saturday 12 pm.
+Overall trips per gender shows the same pattern of as trips weekdays per hour. However, slicing through the data for *females* only show that bikes are at high demand on Saturday and Sunday! with peak hour on Saturday 12 pm.
 ![TripsGender](images/TripsFemaleWeekdayperHour.png)
 
 
